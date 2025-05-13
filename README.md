@@ -20,7 +20,6 @@ This repository provides an overview for my final project for LLM course.
 ├── run_finetune_slurm.sh    # SLURM wrapper for cluster training
 ├── test_inference.py        # Quick inference on a few sample prompts
 ├── compare.py               # Full evaluation & comparison script
-└── test_data.jsonl          # Generated test split for evaluation (not necessarily to look at I think)
 ```
 
 ---
