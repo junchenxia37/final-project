@@ -1,4 +1,4 @@
-# Qwen Business Strategy Fine‑Tuning & Evaluation
+# StratQwen: LLMs for Strategic Business Insights
 
 ## Overview
 This repository contains all the code and data you need to preprocess conversations, fine‑tune **Qwen** on business‑scenario strategy prompts, and evaluate the resulting model.
